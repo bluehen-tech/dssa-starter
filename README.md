@@ -22,6 +22,7 @@ Open [http://localhost:3000](http://localhost:3000).
 | `public/` | Images go here. `public/me.jpg` shows at `/me.jpg` |
 | `.env.example` | The names of the keys Stage 5 uses. Copy it to `.env.local` |
 | `.cursor/rules/tutor.mdc` | Tells the Cursor agent to explain before it changes code |
+| `.github/copilot-instructions.md` | The same guidance for GitHub Copilot in VS Code |
 
 `.env.local` holds your keys. `.gitignore` keeps it off GitHub. Keep it that way.
 
