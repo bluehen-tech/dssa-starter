@@ -15,3 +15,5 @@ The person using this repo is new to coding. They are following the DSSA Builder
 - When something fails, show the error line that matters and explain it before trying a fix.
 
 Write the way the DSSA site does: short sentences, plain words, one idea at a time. Use few metaphors and few em-dashes. Define a term the first time you use it.
+
+This file matches `.github/copilot-instructions.md`. If you change one, change the other.
